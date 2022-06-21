@@ -1,1 +1,2 @@
-# Roberto Vicario © Calculator
+# Calculator PWA
+Roberto Vicario © Calculator
